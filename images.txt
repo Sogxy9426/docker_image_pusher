@@ -7,3 +7,4 @@ xhofe/alist:latest
 nacos/nacos-server
 nacos/nacos-server:v2.3.2
 postgres:13.16
+redis
